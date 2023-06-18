@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "I am extremely impressed with the level of professionalism and efficiency displayed by the service. The team was prompt in addressing my concerns and provided solutions in a timely manner. I would highly recommend their services to anyone seeking top-notch assistance."
+    },
+    {
+      "id": 2,
+      "rating": 9,
+      "text": "I had a fantastic experience with the service. The staff went above and beyond to ensure my satisfaction. They were attentive, knowledgeable, and guided me through the entire process with ease. I am grateful for their outstanding service and will definitely be returning for future needs."
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "I cannot express enough how satisfied I am with the service I received. From start to finish, the team demonstrated exceptional expertise and attention to detail. They listened to my requirements and delivered beyond my expectations. I will undoubtedly be a repeat customer and enthusiastically endorse their service to others."
+    },
+    {
+      "rating": 6,
+      "text": "Postman delivers a new feedback with rating.",
+      "id": 4
+    },
+    {
+      "text": "Hello hello, why do you say goodbye when I say hello? Updated rating.",
+      "rating": 4,
+      "id": 5
+    }
+  ]
+}
